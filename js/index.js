@@ -1,5 +1,5 @@
 /*
-  You should be able to call this function with no arguments and see its output in the terminal:
+   You should be able to call this function with no arguments and see its output in the terminal:
   greetProgrammer();
   => "Hello, programmer!"
 */
